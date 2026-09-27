@@ -1,0 +1,16 @@
+node_modules
+.next
+.env.local
+.DS_Store
+tsconfig.tsbuildinfo
+next-env.d.ts
+.dev-server.pid
+.dev-server.log
+.live-server.log
+
+# Üretilen görseller ve konsept log'u yerel kalır.
+data/products
+data/exports
+data/concepts.json
+data/custom-types.json
+data/etsy/

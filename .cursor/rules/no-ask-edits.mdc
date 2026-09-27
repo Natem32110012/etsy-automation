@@ -1,0 +1,10 @@
+---
+description: Ask before code changes; restart live without asking
+alwaysApply: true
+---
+
+# Approval vs live restart
+
+- Before changing code, UI, or files, explain first and wait for approval.
+- After approved work that must show on port 3001, run `npm run live:down && npm run live:up` yourself. Do not ask whether to restart.
+- Talk in Turkish. Keep new UI copy in English. Do not delete files or data without asking.

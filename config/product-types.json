@@ -1,0 +1,110 @@
+{
+  "doodle": {
+    "label": "Yetişkin Doodle",
+    "slug": "doodle",
+    "print": {
+      "label": "letter-300dpi",
+      "width": 2550,
+      "height": 3300,
+      "dpi": 300,
+      "generateAspect": "1152x1536"
+    },
+    "boardEnv": "BOARD_ID_DOODLE"
+  },
+  "coloring": {
+    "label": "Çocuk Boyama Sayfası",
+    "slug": "coloring",
+    "print": {
+      "label": "letter-300dpi",
+      "width": 2550,
+      "height": 3300,
+      "dpi": 300,
+      "generateAspect": "1152x1536"
+    },
+    "boardEnv": "BOARD_ID_COLORING"
+  },
+  "planner": {
+    "label": "Planner",
+    "slug": "planner",
+    "print": {
+      "label": "a4-300dpi",
+      "width": 2480,
+      "height": 3508,
+      "dpi": 300,
+      "generateAspect": "1024x1536"
+    },
+    "boardEnv": "BOARD_ID_PLANNER"
+  },
+  "invitation": {
+    "label": "Davetiye",
+    "slug": "invitation",
+    "print": {
+      "label": "a4-300dpi",
+      "width": 2480,
+      "height": 3508,
+      "dpi": 300,
+      "generateAspect": "1024x1536"
+    },
+    "boardEnv": "BOARD_ID_INVITATION"
+  },
+  "party": {
+    "label": "Cupcake Party",
+    "slug": "party",
+    "print": {
+      "label": "letter-300dpi",
+      "width": 2550,
+      "height": 3300,
+      "dpi": 300,
+      "generateAspect": "1152x1536"
+    },
+    "boardEnv": "BOARD_ID_PARTY"
+  },
+  "paperdoll": {
+    "label": "Paper Doll",
+    "slug": "paperdoll",
+    "print": {
+      "label": "letter-300dpi",
+      "width": 2550,
+      "height": 3300,
+      "dpi": 300,
+      "generateAspect": "1152x1536"
+    },
+    "boardEnv": "BOARD_ID_PAPERDOLL"
+  },
+  "favortags": {
+    "label": "Party Favor Tags",
+    "slug": "favortags",
+    "print": {
+      "label": "letter-300dpi",
+      "width": 2550,
+      "height": 3300,
+      "dpi": 300,
+      "generateAspect": "1152x1536"
+    },
+    "boardEnv": "BOARD_ID_FAVORTAGS"
+  },
+  "kids-wall-art": {
+    "label": "Kids Wall Art",
+    "slug": "kids-wall-art",
+    "print": {
+      "label": "18x24-300dpi",
+      "width": 5400,
+      "height": 7200,
+      "dpi": 300,
+      "generateAspect": "3:4"
+    },
+    "boardEnv": "BOARD_ID_KIDS_WALL_ART"
+  },
+  "adult-wall-art": {
+    "label": "Adult Wall Art",
+    "slug": "adult-wall-art",
+    "print": {
+      "label": "18x24-300dpi",
+      "width": 5400,
+      "height": 7200,
+      "dpi": 300,
+      "generateAspect": "3:4"
+    },
+    "boardEnv": "BOARD_ID_ADULT_WALL_ART"
+  }
+}
